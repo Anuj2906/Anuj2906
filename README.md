@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anuj Gupta</h1>
 <h3 align="center">A Software enthusiast and wannabe system developer from India!!!</h3>
 
-- 🔭 I’m currently working as SDE-1 in Arthmate tech PVT. LTD.
+- 🔭 I’m currently working as SDE-1 in Aspire.
 
 - 🌱 I’m currently learning **Typescript, GO**, while I have decent knowledge and hands on experience in **Javascript, C++, Python**.
 
