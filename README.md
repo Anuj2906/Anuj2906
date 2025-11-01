@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anuj Gupta</h1>
 <h3 align="center">A Software enthusiast and wannabe system developer from India!!!</h3>
 
-- 🔭 I’m currently working as Software engineer 1 in Aspire FT Pte Ltd.
+- 🔭 I’m currently working as Software engineer 1 at Aspire FT Pte Ltd.
 
-- 🌱 I’m currently learning **Typescript, PHP, GO**, while I have decent knowledge and hands on experience in **Javascript, C++, Python**.
+- 🌱 I’m currently learning **GO, JAVA, PHP**, while I have decent knowledge and hands on experience in **Javascript, C++, Python**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Anuj2906](https://github.com/Anuj2906)
   
